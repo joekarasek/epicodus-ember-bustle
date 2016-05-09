@@ -42,7 +42,7 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+This site has already been deployed to GitHub pages. Checkout out this [Gist](https://gist.github.com/joekarasek/d32875162412d70390a4e1aa524d3aa1) on hosting ember projects to GitHub to see how it was done.
 
 ## Further Reading / Useful Links
 
